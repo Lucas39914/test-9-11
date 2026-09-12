@@ -1,6 +1,6 @@
-# Hello World 弹窗
+# hello Lucas 弹窗
 
-一个最小的 Python 项目：运行时弹出一个对话框显示 `Hello World`。
+一个最小的 Python 项目：运行时弹出一个对话框显示 `hello Lucas`。
 
 ## 环境要求
 
@@ -12,7 +12,7 @@
 python hello.py
 ```
 
-运行后会弹出一个标题为 `Hello World` 的对话框，内容为 `Hello World`，点击「确定」即可关闭。
+运行后会弹出一个标题为 `hello Lucas` 的对话框，内容为 `hello Lucas`，点击「确定」即可关闭。
 
 ## 文件说明
 
